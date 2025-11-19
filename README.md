@@ -1,10 +1,6 @@
 Cancer or SARD and Immune Checkpoint inhibitors Outcomes
 =================
 
-See the **[Using This Template.md](template_docs/UsingThisTemplate.md)** for more information on how to use this template.
-
-----
-
 An OHDSI study repository is expected to have a README.md file where the header conforms to a standard. A template README file is provided here:
 
 **[README file template](template_docs/templateREADME.md)**
