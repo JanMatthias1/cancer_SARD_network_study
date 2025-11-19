@@ -1,4 +1,4 @@
-Cancer or SARD and Immune Checkpoint inhibitors Outcomes
+Identifying Baseline Risk in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI 
 =================
 
 Among adult patients with cancer and pre-existing or concurrent systemic autoimmune rheumatologic disease (SARD), who newly initiate immune checkpoint inhibitors (ICI), what baseline demographic and clinical factors are associated with the development of major immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
@@ -7,7 +7,7 @@ Among adult patients with cancer and pre-existing or concurrent systemic autoimm
 
 | Element | Description |
 | ------- | ----------- |
-| [Study title]      | Identifying Baseline Risk for Major irAEs in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI           
+| [Study title]      | Identifying Baseline Risk in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI           
 | Study status badge | <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">|
 | Analytics use case | One or more analytics use cases included in the study (in a comma-separated list). See [below](#analytics-use-cases) for valid options. |
 | Study type | Clinical Application |
