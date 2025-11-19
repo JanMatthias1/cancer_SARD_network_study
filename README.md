@@ -1,13 +1,7 @@
 Cancer or SARD and Immune Checkpoint inhibitors Outcomes
 =================
 
-An OHDSI study repository is expected to have a README.md file where the header conforms to a standard. A template README file is provided here:
-
-**[README file template](template_docs/templateREADME.md)**
-
-When initiating a repository, please copy this file, rename it to 'README.md', and fill in the fields as appropriate.
-
-The information in the repository README file will be used to automatically update the [list of OHDSI research studies](https://data.ohdsi.org/OhdsiStudies/), so it is important to fill in the template accurately, and keep it up-to-date.
+Among adult patients with cancer and pre-existing or concurrent systemic autoimmune rheumatologic disease (SARD), who newly initiate immune checkpoint inhibitors (ICI), what baseline demographic and clinical factors are associated with the development of major immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
 
 ## Elements in the README template
 
