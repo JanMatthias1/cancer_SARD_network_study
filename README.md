@@ -1,7 +1,7 @@
 Identifying Baseline Risk in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI 
 =================
 
-Among adult patients with cancer and pre-existing or concurrent systemic autoimmune rheumatologic disease (SARD), who newly initiate immune checkpoint inhibitors (ICI), what baseline demographic and clinical factors are associated with the development of major immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
+Research Question: Among adult patients with cancer and pre-existing or concurrent systemic autoimmune rheumatologic disease (SARD), who newly initiate immune checkpoint inhibitors (ICI), what baseline demographic and clinical factors are associated with the development of major immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
 
 ## Elements in the README template
 
