@@ -8,7 +8,7 @@ Research Question: Among adult patients with cancer and pre-existing or concurre
 | Element | Description |
 | ------- | ----------- |
 | [Study title]      | Identifying Baseline Risk in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI           
-| Study status badge | <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">|
+| Study status badge | <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started"> |
 | Analytics use case | One or more analytics use cases included in the study (in a comma-separated list). See [below](#analytics-use-cases) for valid options. |
 | Study type | Clinical Application |
 | Tags | Zero, one, or more additional keywords that can be used to filter the list of studies. The list of tags is not restricted, but be conservative in making up new tags. For example: `EHDEN` to identify studies that are part of the [EHDEN project](https://www.ehden.eu/). |
