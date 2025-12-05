@@ -21,5 +21,5 @@ Research Question:
 | Study end date | NA| 
 | Protocol | A hyperlink to the protocol. The protocol is expected to be a document in the study repository itself. | 
 | Publications | Zero | 
-| Results explorer | A hyperlink to a web app (e.g. a Shiny app) where the results of the study can be explored. |
+| Results explorer | NA |
 
