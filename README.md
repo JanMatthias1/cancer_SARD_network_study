@@ -14,12 +14,12 @@ Research Question:
 | Study status badge | <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started"> |
 | Analytics use case | One or more analytics use cases included in the study (in a comma-separated list). See [below](#analytics-use-cases) for valid options. |
 | Study type | Clinical Application |
-| Tags | Zero, one, or more additional keywords that can be used to filter the list of studies. The list of tags is not restricted, but be conservative in making up new tags. For example: `EHDEN` to identify studies that are part of the [EHDEN project](https://www.ehden.eu/). |
+| Tags | NA |
 | Study lead | Rohan Verma |
 | Study lead forums tag | The OHDSI forums tag of the study lead, which can be used to contact the lead. It is recommended to make this a hyperlink to lead's forums profile |
 | Study start date | [November] [01], [2025])|
 | Study end date | NA| 
 | Protocol | A hyperlink to the protocol. The protocol is expected to be a document in the study repository itself. | 
-| Publications | Zero | 
+| Publications | NA | 
 | Results explorer | NA |
 
