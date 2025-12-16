@@ -16,7 +16,7 @@ Research Question:
 | Study type | Clinical Application |
 | Tags | NA |
 | Study lead | Rohan Verma |
-| Study lead forums tag | The OHDSI forums tag of the study lead, which can be used to contact the lead. It is recommended to make this a hyperlink to lead's forums profile |
+| Study lead forums tag | NA |
 | Study start date | [November] [01], [2025])|
 | Study end date | NA| 
 | Protocol | A hyperlink to the protocol. The protocol is expected to be a document in the study repository itself. | 
