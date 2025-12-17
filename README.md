@@ -21,7 +21,7 @@ The objectives of this study are as follows:
 | Study lead forums tag | NA |
 | Study start date | [November] [01], [2025])|
 | Study end date | NA| 
-| Protocol | A hyperlink to the protocol. The protocol is expected to be a document in the study repository itself. | 
+| Protocol | [Study Protocol](https://github.com/JanMatthias1/cancer_SARD_network_study/blob/main/Study_protocol_final.pdf)| 
 | Publications | NA | 
 | Results explorer | NA |
 
