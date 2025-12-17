@@ -1,10 +1,12 @@
 Identifying Baseline Risk in Cancer Patients with Systemic Autoimmune Rheumatic Disease Receiving ICI 
 =================
+Immune checkpoint inhibitors (ICIs) have transformed cancer therapy but are associated with immune-related adverse events (irAEs), including colitis, myocarditis, thyroiditis, and hepatitis. Emerging evidence suggests that patients with pre-existing systemic autoimmune rheumatologic diseases (SARDs) may be at increased risk for both autoimmune disease flares and irAEs when treated with ICIs. However, existing studies are limited by small sample sizes, retrospective single-center designs, and inconsistent phenotyping of both autoimmune disease and irAEs. Large-scale, standardized real-world evidence is needed to quantify irAE risk in this vulnerable population. 
 
-Research Question: 
-- Among adult patients with cancers and pre-existing or concurrent systemic autoimmune rheumatologic disease (SARD), who newly initiate immune checkpoint inhibitors (ICI), what is the incidence of immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
- 
-- Among adult patients with cancers who newly initiate immune checkpoint inhibitors (ICI), what is the incidence of immune-related adverse events (colitis, myocarditis, thyroiditis, and hepatitis)? 
+The objectives of this study are as follows: 
+
+- To estimate the incidence of selected irAEs (colitis, myocarditis, thyroiditis, and hepatitis) among adult cancer patients with pre-existing or concurrent SARDs who newly initiate ICIs. 
+- To estimate the incidence of the same irAEs among adult cancer patients without SARDs who newly initiate ICIs. 
+- To assess whether the presence of a SARD is associated with a higher incidence of irAEs following ICI initiation.
 
 ## Elements in the README template
 
